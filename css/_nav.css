@@ -1,0 +1,15 @@
+header {
+    left: 0;
+    right: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: #021720;
+    padding: 2rem 9%;
+  }
+  
+  
+  header .logo img {
+    width: 100px;
+  }

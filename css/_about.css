@@ -1,0 +1,28 @@
+.section-title {
+    font-size: 2rem;
+    font-weight: 200;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 2rem;
+    margin: 2rem;
+    position: relative;
+  }
+  .text {
+    display: inline-block;
+  }
+  .text p {
+    font-size: 25px;
+    margin: 20px 0;
+    font-weight: 400;
+    max-width: 800px;
+  }
+  .experience {
+align-items: center;
+justify-content: center;
+    color: #91d0de;
+  }
+
+  .experience i{
+    color: #91d0de;
+  }
